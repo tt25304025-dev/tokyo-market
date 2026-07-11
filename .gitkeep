@@ -1,0 +1,17 @@
+backend/
+    .gitkeep
+
+frontend/
+    .gitkeep
+
+docs/
+    .gitkeep
+
+database/
+    .gitkeep
+
+infrastructure/
+    .gitkeep
+
+.github/
+    .gitkeep
